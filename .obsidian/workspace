@@ -9,11 +9,27 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cutting fuel taxes is a bad idea.md",
-            "mode": "preview",
+            "file": "words/metropolitan.md",
+            "mode": "source",
             "backlinks": false,
             "source": false
           }
+        }
+      },
+      {
+        "id": "c963afb68aa905a3",
+        "type": "leaf",
+        "state": {
+          "type": "Search on Internet",
+          "state": {}
+        }
+      },
+      {
+        "id": "fabec8d63ac2c4ac",
+        "type": "leaf",
+        "state": {
+          "type": "Search on Internet",
+          "state": {}
         }
       }
     ],
@@ -54,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "55bfbafdb49bb598",
@@ -70,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cutting fuel taxes is a bad idea.md",
+                "file": "words/metropolitan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +107,7 @@
   },
   "active": "1f723a5b576cbc8a",
   "lastOpenFiles": [
+    "words/metropolitan.md",
     "Cutting fuel taxes is a bad idea.md",
     "未命名.md",
     "words/shield.md",
@@ -98,7 +116,6 @@
     "Images/000000.png",
     "Images/000001.jpg",
     "Images/000094.png",
-    "Images/000098.jpg",
-    "Images/000100.png"
+    "Images/000098.jpg"
   ]
 }
