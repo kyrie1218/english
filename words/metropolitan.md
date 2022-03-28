@@ -1,4 +1,6 @@
-
+---
+aliases: Metropolitan
+---
 # metropolitan
 ***adjective***
 

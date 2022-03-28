@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "glamour.md",
-            "mode": "source",
+            "file": "Cutting fuel taxes is a bad idea.md",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "glamour.md",
+                "file": "Cutting fuel taxes is a bad idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,9 +99,9 @@
   },
   "active": "1f723a5b576cbc8a",
   "lastOpenFiles": [
-    "glamour.md",
-    "words/metropolitan.md",
     "Cutting fuel taxes is a bad idea.md",
+    "words/metropolitan.md",
+    "glamour.md",
     "未命名.md",
     "words/shield.md",
     "images/img1_u47.jpg",
