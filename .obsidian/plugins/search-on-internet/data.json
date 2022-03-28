@@ -1,0 +1,35 @@
+{
+  "searches": [
+    {
+      "tags": [],
+      "query": "https://www.google.com/search?&q={{query}}",
+      "name": "Google",
+      "encode": true
+    },
+    {
+      "tags": [],
+      "query": "https://dictionary.cambridge.org/zhs/dictionary/english-chinese-simplified/{{query}}",
+      "name": "Cambridge Dictionary",
+      "encode": true
+    },
+    {
+      "tags": [],
+      "query": "https://www.dictionary.com/browse/{{query}}",
+      "name": "Dictionary.com",
+      "encode": true
+    },
+    {
+      "name": "Macmillan Dictionary",
+      "query": "https://www.macmillandictionary.com/us/dictionary/american/{{query}}",
+      "tags": [],
+      "encode": true
+    },
+    {
+      "name": "Oxford Dictionary",
+      "query": "https://www.oxfordlearnersdictionaries.com/definition/english/{{query}}",
+      "tags": [],
+      "encode": true
+    }
+  ],
+  "useIframe": true
+}

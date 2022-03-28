@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "abd4d981b4f21b35",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f723a5b576cbc8a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cutting fuel taxes is a bad idea.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e863f6cd9552717d",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfdde623de492af8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60e137f53e1a4c37",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b3f8f28e135ad9f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "55bfbafdb49bb598",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c1f3c3f83aba93e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de34f4aa7f700538",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cutting fuel taxes is a bad idea.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1f723a5b576cbc8a",
+  "lastOpenFiles": [
+    "Cutting fuel taxes is a bad idea.md",
+    "未命名.md",
+    "words/shield.md",
+    "images/img1_u47.jpg",
+    "cover.jpg",
+    "Images/000000.png",
+    "Images/000001.jpg",
+    "Images/000094.png",
+    "Images/000098.jpg",
+    "Images/000100.png"
+  ]
+}
