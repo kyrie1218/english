@@ -8,7 +8,7 @@
     },
     {
       "tags": [],
-      "query": "https://dictionary.cambridge.org/zhs/dictionary/english-chinese-simplified/{{query}}",
+      "query": "https://dictionary.cambridge.org/spellcheck/english-chinese-simplified/?q={{query}}",
       "name": "Cambridge Dictionary",
       "encode": true
     },
@@ -19,15 +19,15 @@
       "encode": true
     },
     {
-      "name": "Macmillan Dictionary",
-      "query": "https://www.macmillandictionary.com/us/dictionary/american/{{query}}",
       "tags": [],
+      "query": "https://www.macmillandictionary.com/us/dictionary/american/{{query}}",
+      "name": "Macmillan Dictionary",
       "encode": true
     },
     {
-      "name": "Oxford Dictionary",
-      "query": "https://www.oxfordlearnersdictionaries.com/definition/english/{{query}}",
       "tags": [],
+      "query": "https://www.oxfordlearnersdictionaries.com/definition/english/{{query}}",
+      "name": "Oxford Dictionary",
       "encode": true
     }
   ],
