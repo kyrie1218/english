@@ -8,7 +8,7 @@
     },
     {
       "tags": [],
-      "query": "https://dictionary.cambridge.org/spellcheck/english-chinese-simplified/?q={{query}}",
+      "query": "https://dictionary.cambridge.org/dictionary/english-chinese-simplified/{{query}}",
       "name": "Cambridge Dictionary",
       "encode": true
     },
